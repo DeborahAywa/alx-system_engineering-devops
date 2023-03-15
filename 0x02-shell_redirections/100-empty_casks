@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d -name -empty -o -type f -name -empty
